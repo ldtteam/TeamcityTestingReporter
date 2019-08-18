@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamcityTestingReporter", "TeamcityTestingReporter\TeamcityTestingReporter.csproj", "{0BBDC770-C461-41AF-AC77-BC28CC4CB117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BBDC770-C461-41AF-AC77-BC28CC4CB117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BBDC770-C461-41AF-AC77-BC28CC4CB117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BBDC770-C461-41AF-AC77-BC28CC4CB117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BBDC770-C461-41AF-AC77-BC28CC4CB117}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
